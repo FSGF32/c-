@@ -3,9 +3,11 @@ using namespace std;
 int main() {
     long long n;
     long long q;
-    cout<<"ÊäÈëÄãµÄÉí¸ßºÍÌåÖØ ";
+    cout<<"èº«é«˜ä½“é‡è®¡ç®—å™¨v 1.0æ­£å¼ç‰ˆ"; 
+    cout<<"è¾“å…¥ä½ çš„èº«é«˜å’Œä½“é‡"<<endl;
 	cin>>n>>q;
-	cout<<"Éí¸ßºÍÌåÖØ·Ö±ðÊÇ ";
+	cout<<"æ­£åœ¨è®¡ç®—"<<endl;
+	cout<<"èº«é«˜å’Œä½“é‡åˆ†åˆ«æ˜¯ "<<endl;
 	cout<<n;
     cout<<"  ";
 	cout<<q;
